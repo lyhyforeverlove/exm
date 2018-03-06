@@ -94,7 +94,7 @@ public class TestQuicksort {
 
 
     public static void main(String[] args) {
-        int[] arr = {1,9,3,12,7,8,3,4,65,22};
+        int[] arr = {1,9,3,12,55,7,8,15,3,33,4,65,22,177,100};
 
 //        quickSort(arr,0,arr.length - 1);
         sort(arr,0,arr.length - 1);
